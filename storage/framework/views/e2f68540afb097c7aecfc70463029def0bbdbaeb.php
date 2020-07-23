@@ -30,4 +30,4 @@
 </body>
 
 </html>
-<?php /**PATH C:\Users\Spartacus Yusuf\Desktop\laravel\resources\views/student.blade.php ENDPATH**/ ?>
+<?php /**PATH C:\Users\Spartacus Yusuf\Desktop\laravel\resources\views/hompage.blade.php ENDPATH**/ ?>

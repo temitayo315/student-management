@@ -1,0 +1,67 @@
+*{
+  padding: auto;
+    margin: 0px;
+}
+
+nav{
+    height: 90px;
+}
+.head{
+    margin-top: 25px;
+}
+.nav-text{
+    color: #ffffff;
+    font-size: 18px;
+}
+.navbar-brand{
+    font-size: 40px;
+    font-family: "Century Gothic";
+}
+
+
+.btn_signUp{
+    display: block;
+    position: relative;
+    width: 160px;
+    border-radius: 40px;
+    margin-top: 25px;
+    padding: 15px 0px 15px;
+}
+
+.btn_signUp:hover{
+    background:#0c0c0c;
+}
+#myNavbar li{
+    font-size: 18px;
+    font-family: verdana;
+}
+#myNavbar li:hover{
+    background-color: #ffbf00;
+}
+
+#carousel{
+    width: 100%;
+    height: 450px;
+}
+.carousel-caption p{
+    font-family: sans-serif;
+    font-size: 25px;
+    color: #aa1d09;
+    background-color: #ccc;
+
+}
+.carousel-caption h1{
+    font-family: sans-serif;
+    font-size: 55px;
+    color: #aa1d09;
+}
+
+footer{
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+    margin-top: 30px;
+}
+footer, h5, small{
+    padding-top: 15px;
+}
